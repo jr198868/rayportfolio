@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rayportfolio/static/css/main.f566a00b.css",
+    "main.js": "/rayportfolio/static/js/main.db97c9e8.js",
+    "static/media/Gmail.png": "/rayportfolio/static/media/Gmail.df901ffb6e471daab5f2.png",
+    "static/media/LinkedIn.png": "/rayportfolio/static/media/LinkedIn.66ffd29ac1bb3de67249.png",
+    "static/media/ai.jpg": "/rayportfolio/static/media/ai.efc659348ac39252464b.jpg",
+    "index.html": "/rayportfolio/index.html",
+    "main.f566a00b.css.map": "/rayportfolio/static/css/main.f566a00b.css.map",
+    "main.db97c9e8.js.map": "/rayportfolio/static/js/main.db97c9e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f566a00b.css",
+    "static/js/main.db97c9e8.js"
+  ]
+}
